@@ -1,7 +1,7 @@
 {
-  "name": "search-row-hints",
+  "name": "modals-toggle",
   "version": "1.0.1",
-  "description": "Plugin create search with hints",
+  "description": "Plugin for toggle modals",
   "main": "dist/script.js",
   "browserslist": [
     "> 1%",
